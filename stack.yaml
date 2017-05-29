@@ -1,0 +1,11 @@
+resolver:
+  name: default-snapshot
+  location: snapshot.yaml
+
+flags: {}
+
+packages:
+- '.'
+
+extra-deps: []
+
